@@ -1,0 +1,15 @@
+C:\Users\Likitha\source\repos\assignment_day1\assignment_day1\bin\Debug\net6.0\assignment_day1.exe
+C:\Users\Likitha\source\repos\assignment_day1\assignment_day1\bin\Debug\net6.0\assignment_day1.deps.json
+C:\Users\Likitha\source\repos\assignment_day1\assignment_day1\bin\Debug\net6.0\assignment_day1.runtimeconfig.json
+C:\Users\Likitha\source\repos\assignment_day1\assignment_day1\bin\Debug\net6.0\assignment_day1.dll
+C:\Users\Likitha\source\repos\assignment_day1\assignment_day1\bin\Debug\net6.0\assignment_day1.pdb
+C:\Users\Likitha\source\repos\assignment_day1\assignment_day1\obj\Debug\net6.0\assignment_day1.csproj.AssemblyReference.cache
+C:\Users\Likitha\source\repos\assignment_day1\assignment_day1\obj\Debug\net6.0\assignment_day1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Likitha\source\repos\assignment_day1\assignment_day1\obj\Debug\net6.0\assignment_day1.AssemblyInfoInputs.cache
+C:\Users\Likitha\source\repos\assignment_day1\assignment_day1\obj\Debug\net6.0\assignment_day1.AssemblyInfo.cs
+C:\Users\Likitha\source\repos\assignment_day1\assignment_day1\obj\Debug\net6.0\assignment_day1.csproj.CoreCompileInputs.cache
+C:\Users\Likitha\source\repos\assignment_day1\assignment_day1\obj\Debug\net6.0\assignment_day1.dll
+C:\Users\Likitha\source\repos\assignment_day1\assignment_day1\obj\Debug\net6.0\refint\assignment_day1.dll
+C:\Users\Likitha\source\repos\assignment_day1\assignment_day1\obj\Debug\net6.0\assignment_day1.pdb
+C:\Users\Likitha\source\repos\assignment_day1\assignment_day1\obj\Debug\net6.0\assignment_day1.genruntimeconfig.cache
+C:\Users\Likitha\source\repos\assignment_day1\assignment_day1\obj\Debug\net6.0\ref\assignment_day1.dll
