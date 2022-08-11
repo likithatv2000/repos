@@ -1,0 +1,15 @@
+C:\Users\Likitha\source\repos\d3\d3\q4\q4\bin\Debug\net6.0\q4.exe
+C:\Users\Likitha\source\repos\d3\d3\q4\q4\bin\Debug\net6.0\q4.deps.json
+C:\Users\Likitha\source\repos\d3\d3\q4\q4\bin\Debug\net6.0\q4.runtimeconfig.json
+C:\Users\Likitha\source\repos\d3\d3\q4\q4\bin\Debug\net6.0\q4.dll
+C:\Users\Likitha\source\repos\d3\d3\q4\q4\bin\Debug\net6.0\q4.pdb
+C:\Users\Likitha\source\repos\d3\d3\q4\q4\obj\Debug\net6.0\q4.csproj.AssemblyReference.cache
+C:\Users\Likitha\source\repos\d3\d3\q4\q4\obj\Debug\net6.0\q4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Likitha\source\repos\d3\d3\q4\q4\obj\Debug\net6.0\q4.AssemblyInfoInputs.cache
+C:\Users\Likitha\source\repos\d3\d3\q4\q4\obj\Debug\net6.0\q4.AssemblyInfo.cs
+C:\Users\Likitha\source\repos\d3\d3\q4\q4\obj\Debug\net6.0\q4.csproj.CoreCompileInputs.cache
+C:\Users\Likitha\source\repos\d3\d3\q4\q4\obj\Debug\net6.0\q4.dll
+C:\Users\Likitha\source\repos\d3\d3\q4\q4\obj\Debug\net6.0\refint\q4.dll
+C:\Users\Likitha\source\repos\d3\d3\q4\q4\obj\Debug\net6.0\q4.pdb
+C:\Users\Likitha\source\repos\d3\d3\q4\q4\obj\Debug\net6.0\q4.genruntimeconfig.cache
+C:\Users\Likitha\source\repos\d3\d3\q4\q4\obj\Debug\net6.0\ref\q4.dll

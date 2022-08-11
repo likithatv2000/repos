@@ -1,0 +1,15 @@
+C:\Users\Likitha\source\repos\11-08-2022Assignment\11-08-2022Assignment\bin\Debug\net6.0\11-08-2022Assignment.exe
+C:\Users\Likitha\source\repos\11-08-2022Assignment\11-08-2022Assignment\bin\Debug\net6.0\11-08-2022Assignment.deps.json
+C:\Users\Likitha\source\repos\11-08-2022Assignment\11-08-2022Assignment\bin\Debug\net6.0\11-08-2022Assignment.runtimeconfig.json
+C:\Users\Likitha\source\repos\11-08-2022Assignment\11-08-2022Assignment\bin\Debug\net6.0\11-08-2022Assignment.dll
+C:\Users\Likitha\source\repos\11-08-2022Assignment\11-08-2022Assignment\bin\Debug\net6.0\11-08-2022Assignment.pdb
+C:\Users\Likitha\source\repos\11-08-2022Assignment\11-08-2022Assignment\obj\Debug\net6.0\11-08-2022Assignment.csproj.AssemblyReference.cache
+C:\Users\Likitha\source\repos\11-08-2022Assignment\11-08-2022Assignment\obj\Debug\net6.0\11-08-2022Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Likitha\source\repos\11-08-2022Assignment\11-08-2022Assignment\obj\Debug\net6.0\11-08-2022Assignment.AssemblyInfoInputs.cache
+C:\Users\Likitha\source\repos\11-08-2022Assignment\11-08-2022Assignment\obj\Debug\net6.0\11-08-2022Assignment.AssemblyInfo.cs
+C:\Users\Likitha\source\repos\11-08-2022Assignment\11-08-2022Assignment\obj\Debug\net6.0\11-08-2022Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Likitha\source\repos\11-08-2022Assignment\11-08-2022Assignment\obj\Debug\net6.0\11-08-2022Assignment.dll
+C:\Users\Likitha\source\repos\11-08-2022Assignment\11-08-2022Assignment\obj\Debug\net6.0\refint\11-08-2022Assignment.dll
+C:\Users\Likitha\source\repos\11-08-2022Assignment\11-08-2022Assignment\obj\Debug\net6.0\11-08-2022Assignment.pdb
+C:\Users\Likitha\source\repos\11-08-2022Assignment\11-08-2022Assignment\obj\Debug\net6.0\11-08-2022Assignment.genruntimeconfig.cache
+C:\Users\Likitha\source\repos\11-08-2022Assignment\11-08-2022Assignment\obj\Debug\net6.0\ref\11-08-2022Assignment.dll
