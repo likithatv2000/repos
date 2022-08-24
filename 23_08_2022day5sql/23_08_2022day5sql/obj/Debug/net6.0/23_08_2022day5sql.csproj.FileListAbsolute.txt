@@ -1,0 +1,5 @@
+C:\Users\Likitha\source\repos\23_08_2022day5sql\23_08_2022day5sql\obj\Debug\net6.0\23_08_2022day5sql.csproj.AssemblyReference.cache
+C:\Users\Likitha\source\repos\23_08_2022day5sql\23_08_2022day5sql\obj\Debug\net6.0\23_08_2022day5sql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Likitha\source\repos\23_08_2022day5sql\23_08_2022day5sql\obj\Debug\net6.0\23_08_2022day5sql.AssemblyInfoInputs.cache
+C:\Users\Likitha\source\repos\23_08_2022day5sql\23_08_2022day5sql\obj\Debug\net6.0\23_08_2022day5sql.AssemblyInfo.cs
+C:\Users\Likitha\source\repos\23_08_2022day5sql\23_08_2022day5sql\obj\Debug\net6.0\23_08_2022day5sql.csproj.CoreCompileInputs.cache

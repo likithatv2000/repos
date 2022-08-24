@@ -1,0 +1,15 @@
+C:\Users\Likitha\source\repos\23_08_2022_day5sql\23_08_2022_day5sql\bin\Debug\net6.0\23_08_2022_day5sql.exe
+C:\Users\Likitha\source\repos\23_08_2022_day5sql\23_08_2022_day5sql\bin\Debug\net6.0\23_08_2022_day5sql.deps.json
+C:\Users\Likitha\source\repos\23_08_2022_day5sql\23_08_2022_day5sql\bin\Debug\net6.0\23_08_2022_day5sql.runtimeconfig.json
+C:\Users\Likitha\source\repos\23_08_2022_day5sql\23_08_2022_day5sql\bin\Debug\net6.0\23_08_2022_day5sql.dll
+C:\Users\Likitha\source\repos\23_08_2022_day5sql\23_08_2022_day5sql\bin\Debug\net6.0\23_08_2022_day5sql.pdb
+C:\Users\Likitha\source\repos\23_08_2022_day5sql\23_08_2022_day5sql\obj\Debug\net6.0\23_08_2022_day5sql.csproj.AssemblyReference.cache
+C:\Users\Likitha\source\repos\23_08_2022_day5sql\23_08_2022_day5sql\obj\Debug\net6.0\23_08_2022_day5sql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Likitha\source\repos\23_08_2022_day5sql\23_08_2022_day5sql\obj\Debug\net6.0\23_08_2022_day5sql.AssemblyInfoInputs.cache
+C:\Users\Likitha\source\repos\23_08_2022_day5sql\23_08_2022_day5sql\obj\Debug\net6.0\23_08_2022_day5sql.AssemblyInfo.cs
+C:\Users\Likitha\source\repos\23_08_2022_day5sql\23_08_2022_day5sql\obj\Debug\net6.0\23_08_2022_day5sql.csproj.CoreCompileInputs.cache
+C:\Users\Likitha\source\repos\23_08_2022_day5sql\23_08_2022_day5sql\obj\Debug\net6.0\23_08_2022_day5sql.dll
+C:\Users\Likitha\source\repos\23_08_2022_day5sql\23_08_2022_day5sql\obj\Debug\net6.0\refint\23_08_2022_day5sql.dll
+C:\Users\Likitha\source\repos\23_08_2022_day5sql\23_08_2022_day5sql\obj\Debug\net6.0\23_08_2022_day5sql.pdb
+C:\Users\Likitha\source\repos\23_08_2022_day5sql\23_08_2022_day5sql\obj\Debug\net6.0\23_08_2022_day5sql.genruntimeconfig.cache
+C:\Users\Likitha\source\repos\23_08_2022_day5sql\23_08_2022_day5sql\obj\Debug\net6.0\ref\23_08_2022_day5sql.dll

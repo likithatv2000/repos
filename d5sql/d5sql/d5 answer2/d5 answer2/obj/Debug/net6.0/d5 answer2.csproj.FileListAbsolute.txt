@@ -1,0 +1,22 @@
+C:\Users\Likitha\source\repos\d5sql\d5sql\d5 answer2\d5 answer2\obj\Debug\net6.0\d5 answer2.csproj.AssemblyReference.cache
+C:\Users\Likitha\source\repos\d5sql\d5sql\d5 answer2\d5 answer2\obj\Debug\net6.0\d5 answer2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Likitha\source\repos\d5sql\d5sql\d5 answer2\d5 answer2\obj\Debug\net6.0\d5 answer2.AssemblyInfoInputs.cache
+C:\Users\Likitha\source\repos\d5sql\d5sql\d5 answer2\d5 answer2\obj\Debug\net6.0\d5 answer2.AssemblyInfo.cs
+C:\Users\Likitha\source\repos\d5sql\d5sql\d5 answer2\d5 answer2\obj\Debug\net6.0\d5 answer2.csproj.CoreCompileInputs.cache
+C:\Users\Likitha\source\repos\d5sql\d5sql\d5 answer2\d5 answer2\bin\Debug\net6.0\d5 answer2.exe
+C:\Users\Likitha\source\repos\d5sql\d5sql\d5 answer2\d5 answer2\bin\Debug\net6.0\d5 answer2.deps.json
+C:\Users\Likitha\source\repos\d5sql\d5sql\d5 answer2\d5 answer2\bin\Debug\net6.0\d5 answer2.runtimeconfig.json
+C:\Users\Likitha\source\repos\d5sql\d5sql\d5 answer2\d5 answer2\bin\Debug\net6.0\d5 answer2.dll
+C:\Users\Likitha\source\repos\d5sql\d5sql\d5 answer2\d5 answer2\bin\Debug\net6.0\d5 answer2.pdb
+C:\Users\Likitha\source\repos\d5sql\d5sql\d5 answer2\d5 answer2\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Likitha\source\repos\d5sql\d5sql\d5 answer2\d5 answer2\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Likitha\source\repos\d5sql\d5sql\d5 answer2\d5 answer2\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Likitha\source\repos\d5sql\d5sql\d5 answer2\d5 answer2\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Likitha\source\repos\d5sql\d5sql\d5 answer2\d5 answer2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Likitha\source\repos\d5sql\d5sql\d5 answer2\d5 answer2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Likitha\source\repos\d5sql\d5sql\d5 answer2\d5 answer2\obj\Debug\net6.0\d5 answer2.csproj.CopyComplete
+C:\Users\Likitha\source\repos\d5sql\d5sql\d5 answer2\d5 answer2\obj\Debug\net6.0\d5 answer2.dll
+C:\Users\Likitha\source\repos\d5sql\d5sql\d5 answer2\d5 answer2\obj\Debug\net6.0\refint\d5 answer2.dll
+C:\Users\Likitha\source\repos\d5sql\d5sql\d5 answer2\d5 answer2\obj\Debug\net6.0\d5 answer2.pdb
+C:\Users\Likitha\source\repos\d5sql\d5sql\d5 answer2\d5 answer2\obj\Debug\net6.0\d5 answer2.genruntimeconfig.cache
+C:\Users\Likitha\source\repos\d5sql\d5sql\d5 answer2\d5 answer2\obj\Debug\net6.0\ref\d5 answer2.dll

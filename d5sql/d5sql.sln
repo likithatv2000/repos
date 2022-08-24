@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "d5sql", "d5sql\d5sql.csproj", "{251B8959-88E0-4DA9-8463-513A11728ED8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{251B8959-88E0-4DA9-8463-513A11728ED8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{251B8959-88E0-4DA9-8463-513A11728ED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{251B8959-88E0-4DA9-8463-513A11728ED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{251B8959-88E0-4DA9-8463-513A11728ED8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E542800F-06E1-4FBA-8CB5-474CBB5B939D}
+	EndGlobalSection
+EndGlobal
