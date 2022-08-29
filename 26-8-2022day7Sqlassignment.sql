@@ -92,3 +92,36 @@ select students.dbo.salesreportaverage('Pune');
 /*answer2*/
 
 
+--question2
+
+select * from AccInfo1;
+select * from AccountInformation;
+
+create or alter procedure ROI @ACCTYPE varchar(30) as
+DECLARE @SETROI Int
+IF(@ACCTYPE = 'SAVINGS') SET @SETROI = 5;
+IF(@ACCTYPE = 'CURRENT') SET @SETROI = 6;
+select * from CalInterest(@SETROI,@ACCTYPE);
+
+
+exec ROI 'SAVINGS';
+
+select * Into AccountDetails1 from AccountDetails;
+select * from AccountDetails1;
+ALTER TABLE AccountDetails1
+ADD Interest float;
+
+CREATE or alter FUNCTION CalInterest(@ROI INT,@ACCTYPE VARCHAR(30))  
+RETURNS @CalulateInterest TABLE  
+(AccountType varchar(50),AccountBalance float,Interest float)  
+AS  
+BEGIN  
+insert into @CalulateInterest 
+            
+            select AccType,Principal,Interest from AccountInformation
+			update @CalulateInterest SET Interest=(AccountBalance*@ROI)/100	WHERE AccountType=@ACCTYPE;
+					
+RETURN   
+END 
+
+select * from CalInterest(8,'SAVINGS') as result;
