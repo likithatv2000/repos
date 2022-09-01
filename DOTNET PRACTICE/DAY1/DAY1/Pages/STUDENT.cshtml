@@ -1,0 +1,58 @@
+﻿@page
+@model DAY1.Pages.STUDENTModel
+@{
+
+}
+<h1>Student list</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th><B>Movie Name</B></th>
+
+            <th>Director</th>
+            <th>Actor</th>
+            <th>MovieType</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var db in Model.Movielist)
+        {
+            <tr>
+                <td>@db.MovieName</td>
+                 <td>@db.Director</td>
+                 <td>@db.Actor</td>
+                 <td>@db.MovieType</td>
+                 
+</tr>
+        }
+        <tr>
+            <td>
+</td>
+</tr>
+    </tbody>
+</table>
+<form>
+<lable for="MovieName">Movie Name</lable>
+<input type="text" name="MovieName"/>
+
+<lable for="Director">Director</lable>
+<input type="text" name="Director"/>
+
+<lable for="Actor">Actor</lable>
+<input type="text" name="Actor"/>
+
+<lable for="MovieType">MovieType</lable>
+<input type="text" name="MovieType"/>
+
+<input type="button" id="" onclick="myf()"value="Submit"/>
+<script>
+    function myf()
+    {
+         Console.WriteLine(db.MovieName);
+          Console.WriteLine(db.Director);
+    }
+</script>
+
+
+</form>
